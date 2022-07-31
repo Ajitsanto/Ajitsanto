@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ajitsanto
 - 👀 I’m interested in Front-End Dev and designing
-- 🌱 I’m currently learning React
+- I am specialised in JavaScript, HTML, CSS/SASS, React.
+- 🌱 I’m currently learning more of React and other frameworks&Libraries
 - 📫 How to reach me https://www.linkedin.com/in/ajit-santossh/
 
 <!---
